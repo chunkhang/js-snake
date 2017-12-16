@@ -6,7 +6,7 @@
 
 Source: https://www.youtube.com/watch?v=9TcU2C1AACw
 
-# To play (Please don't)
+## To play (Please don't)
 
 1. Download code with `git clone https://github.com/chunkhang/snake.git`
 
